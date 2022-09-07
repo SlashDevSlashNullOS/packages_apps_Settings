@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- SELinux Status -->
+  <string name="selinux_status">Stare SELinux</string>
+  <string name="selinux_status_disabled">Dezactivat</string>
+  <string name="selinux_status_permissive">Permisiv</string>
+  <string name="selinux_status_enforcing">Enforcing</string>
+  <!-- About device screen, VoidUI Release Version -->
+  <string name="voidui_release_version">Versiune VoidUI</string>
+  <!-- VoidUI Maintainer -->
+  <string name="VoidUI_maintainer">Întreținătorul dispozitivului</string>
+  <!-- App details: open play store link if app is user installed -->
+  <string name="app_play_store">Magazin Play</string>
+  <!-- Device specific doze package -->
+  <!-- Battery temperature -->
+  <string name="battery_temp">Temperatura bateriei</string>
+  <!-- Proximity wake -->
+  <string name="proximity_wake_title">Prevenirea trezirii accidentale</string>
+  <string name="proximity_wake_summary">Verifică senzorul de proximitate înainte de trezirea ecranului</string>
+  <!-- Refresh rate -->
+  <string name="min_refresh_rate_title">Rata minimă de împrospătare</string>
+  <string name="max_refresh_rate_title">Rata maximă de împrospătare</string>
+  <string name="low_power_refresh_rate_title_custom">Rata de reîmprospătare a energiei scăzute</string>
+  <!-- Fingerprint wake-and-unlock -->
+  <string name="fingerprint_wake_unlock_title">Atingeți amprenta pentru a debloca</string>
+  <string name="fingerprint_wake_unlock_touch">Ascultă evenimentele cât timp ecranul este oprit</string>
+  <string name="fingerprint_wake_unlock_press">Ascultă doar evenimentele odată ce ecranul este pornit</string>
+  <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_title">Efect de mărire fundal</string>
+  <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_summary">Măriți imaginea de fundal pentru a afișa adâncimea de animație. Imaginile de fundal pot suferi o scădere de calitate</string>
+  <!-- String for removal of sensitive info on about, depending on tap -->
+  <string name="device_info_protected_single_press">Atingeți pentru a afișa informații</string>
+  <!-- Package details -->
+  <string name="package_details_group_title">Detalii pachet</string>
+  <string name="package_name">Numele pachetului</string>
+  <string name="package_version">Versiune pachet</string>
+  <!-- Fullscreen gestures -->
+  <string name="other_controls_title">Alte controale</string>
+  <string name="fullscreen_gestures_title">Navigare prin gesturi</string>
+  <string name="fullscreen_gestures_summary">Ascunde bara de navigare și spațiul pentru tastatură</string>
+  <!-- Gesture navbar length -->
+  <string name="gesture_navbar_length_title">Lungimea barei</string>
+  <string name="short_label">Scurt</string>
+  <string name="long_label">Lung</string>
+  <!-- Swipe to screenshot -->
+  <string name="swipe_to_screenshot_title">Glisați pentru captură de ecran</string>
+  <string name="swipe_to_screenshot_summary">Glisați 3 degete în jos pe ecran pentru a face o captură de ecran</string>
+  <!-- Notch: Full screen apps -->
+  <string name="display_cutout_force_fullscreen_title">Aplicații ecran complet</string>
+  <string name="display_cutout_force_fullscreen_summary">Forțați aplicațiile să ignore spațiul notch</string>
+  <!-- Hotspot extras -->
+  <string name="tethering_allow_vpn_upstreams_title">Permite clienților să utilizeze VPN-uri</string>
+  <string name="tethering_allow_vpn_upstreams_summary">Permiteti clientilor hotspot sa foloseasca acest dispozitiv\u2019s conexiuni VPN pentru conectivitate in amonte</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">Trepte Volum</string>
+  <string name="volume_steps_summary">Customizați pașii volumului</string>
+  <string name="volume_steps_alarm_title">Trepte volum: Alarmă</string>
+  <string name="volume_steps_dtmf_title">Trepte de volum: DTMF</string>
+  <string name="volume_steps_music_title">Trepte de volum: Media</string>
+  <string name="volume_steps_notification_title">Trepte volum: Notificare</string>
+  <string name="volume_steps_ring_title">Trepte volum: Sunet de apel</string>
+  <string name="volume_steps_system_title">Trepte de volum: Sistem</string>
+  <string name="volume_steps_voice_call_title">Trepte volum: Apel vocal</string>
+  <string name="volume_steps_reset">Resetare</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- SELinux Status -->
+  <string name="selinux_status">SELinux 狀態</string>
+  <string name="selinux_status_disabled">Selinux 已停用</string>
+  <string name="selinux_status_permissive">Selinux 權限</string>
+  <string name="selinux_status_enforcing">Selinux 強制模式</string>
+  <!-- About device screen, VoidUI Release Version -->
+  <string name="voidui_release_version">VoidUI 發布版本</string>
+  <!-- VoidUI Maintainer -->
+  <string name="VoidUI_maintainer">VoidUI 管理員</string>
+  <!-- App details: open play store link if app is user installed -->
+  <string name="app_play_store">谷歌應用商店
+應用資料：如果應用是用戶安裝的，打開谷歌應該商店</string>
+  <!-- Device specific doze package -->
+  <!-- Battery temperature -->
+  <string name="battery_temp">電池溫度</string>
+  <!-- Proximity wake -->
+  <string name="proximity_wake_title">Prevent accidental wake-up</string>
+  <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+  <!-- Refresh rate -->
+  <string name="min_refresh_rate_title">Minimum refresh rate</string>
+  <string name="max_refresh_rate_title">Maximum refresh rate</string>
+  <string name="low_power_refresh_rate_title_custom">Low power refresh rate</string>
+  <!-- Fingerprint wake-and-unlock -->
+  <string name="fingerprint_wake_unlock_title">Touch fingerprint to unlock</string>
+  <string name="fingerprint_wake_unlock_touch">Listens for events while the screen is off</string>
+  <string name="fingerprint_wake_unlock_press">Only listens for events once the screen is on</string>
+  <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_title">壁紙縮放效果</string>
+  <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_summary">縮放壁紙以展示縮小深度動畫。壁紙質量可能降低</string>
+  <!-- String for removal of sensitive info on about, depending on tap -->
+  <string name="device_info_protected_single_press">點按即可顯示信息</string>
+  <!-- Package details -->
+  <string name="package_details_group_title">Package details</string>
+  <string name="package_name">Package name</string>
+  <string name="package_version">Package version</string>
+  <!-- Fullscreen gestures -->
+  <string name="other_controls_title">其他控制</string>
+  <string name="fullscreen_gestures_title">全屏手勢</string>
+  <string name="fullscreen_gestures_summary">隱藏屏幕底部導航條</string>
+  <!-- Gesture navbar length -->
+  <string name="gesture_navbar_length_title">導航條長度</string>
+  <string name="short_label">短</string>
+  <string name="long_label">長</string>
+  <!-- Swipe to screenshot -->
+  <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
+  <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+  <!-- Notch: Full screen apps -->
+  <string name="display_cutout_force_fullscreen_title">全屏應用</string>
+  <string name="display_cutout_force_fullscreen_summary">應用強制忽略屏幕開孔</string>
+  <!-- Hotspot extras -->
+  <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
+  <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">音量級別</string>
+  <string name="volume_steps_summary">自定義音量階數</string>
+  <string name="volume_steps_alarm_title">音量級別：鬧鐘</string>
+  <string name="volume_steps_dtmf_title">音量級別：雙音多頻</string>
+  <string name="volume_steps_music_title">音量級別：媒體</string>
+  <string name="volume_steps_notification_title">音量級別：通知</string>
+  <string name="volume_steps_ring_title">音量級別: 鈴聲</string>
+  <string name="volume_steps_system_title">音量級別：系統</string>
+  <string name="volume_steps_voice_call_title">音量級別：語音通話</string>
+  <string name="volume_steps_reset">重置</string>
+</resources>

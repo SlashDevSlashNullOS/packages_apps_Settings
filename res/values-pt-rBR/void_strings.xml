@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- SELinux Status -->
+  <string name="selinux_status">Status do SELinux</string>
+  <string name="selinux_status_disabled">Desativado</string>
+  <string name="selinux_status_permissive">Permissivo</string>
+  <string name="selinux_status_enforcing">Impondo</string>
+  <!-- About device screen, VoidUI Release Version -->
+  <string name="voidui_release_version">Versão de lançamento VoidUI</string>
+  <!-- VoidUI Maintainer -->
+  <string name="VoidUI_maintainer">Mantenedor do dispositivo</string>
+  <!-- App details: open play store link if app is user installed -->
+  <string name="app_play_store">Google Play</string>
+  <!-- Device specific doze package -->
+  <!-- Battery temperature -->
+  <string name="battery_temp">Temperatura da bateria</string>
+  <!-- Proximity wake -->
+  <string name="proximity_wake_title">Evitar despertar acidental</string>
+  <string name="proximity_wake_summary">Verificar o sensor de proximidade antes de ligar a tela</string>
+  <!-- Refresh rate -->
+  <string name="min_refresh_rate_title">Taxa de atualização mínima</string>
+  <string name="max_refresh_rate_title">Taxa de atualização máxima</string>
+  <string name="low_power_refresh_rate_title_custom">Taxa de atualização para poupar energia</string>
+  <!-- Fingerprint wake-and-unlock -->
+  <string name="fingerprint_wake_unlock_title">Use sua digital para desbloquear</string>
+  <string name="fingerprint_wake_unlock_touch">Responde por eventos enquanto a tela está desligada</string>
+  <string name="fingerprint_wake_unlock_press">Responde a eventos somente quando a tela estiver ligada</string>
+  <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_title">Efeito de zoom no papel de parede</string>
+  <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_summary">O efeito de zoom no papel de parede amplia o tamanho da imagem para dar efeito de profundidade. As imagens podem sofrer uma pequena perda de qualidade</string>
+  <!-- String for removal of sensitive info on about, depending on tap -->
+  <string name="device_info_protected_single_press">Toque para mostrar informações</string>
+  <!-- Package details -->
+  <string name="package_details_group_title">Detalhes do pacote</string>
+  <string name="package_name">Nome do pacote</string>
+  <string name="package_version">Versão do pacote</string>
+  <!-- Fullscreen gestures -->
+  <string name="other_controls_title">Outros controles</string>
+  <string name="fullscreen_gestures_title">Gestos em tela cheia</string>
+  <string name="fullscreen_gestures_summary">Ocultar pílula da barra de navegação e o espaço do teclado</string>
+  <!-- Gesture navbar length -->
+  <string name="gesture_navbar_length_title">Comprimento da barra de gestos</string>
+  <string name="short_label">Curto</string>
+  <string name="long_label">Longo</string>
+  <!-- Swipe to screenshot -->
+  <string name="swipe_to_screenshot_title">Deslize para capturar a tela</string>
+  <string name="swipe_to_screenshot_summary">Deslize três dedos na tela para tirar uma captura de tela</string>
+  <!-- Notch: Full screen apps -->
+  <string name="display_cutout_force_fullscreen_title">Aplicativos em tela cheia</string>
+  <string name="display_cutout_force_fullscreen_summary">Forçar aplicativos a ignorar o espaço do notch</string>
+  <!-- Hotspot extras -->
+  <string name="tethering_allow_vpn_upstreams_title">Permitir que clientes usem VPNs</string>
+  <string name="tethering_allow_vpn_upstreams_summary">Permitir que os clientes de hotspot usem este dispositivo\u2019 para conexões VPN de alta velocidade</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">Níveis de volume</string>
+  <string name="volume_steps_summary">Customizar os passos de volume</string>
+  <string name="volume_steps_alarm_title">Passos de volume: Alarme</string>
+  <string name="volume_steps_dtmf_title">Passos de volume: Tons das teclas de discagem</string>
+  <string name="volume_steps_music_title">Passos de volume: Música</string>
+  <string name="volume_steps_notification_title">Passos de volume: Notificação</string>
+  <string name="volume_steps_ring_title">Passos de volume: Toque de chamada</string>
+  <string name="volume_steps_system_title">Passos de volume: Sistema</string>
+  <string name="volume_steps_voice_call_title">Passos de volume: Chamada de voz</string>
+  <string name="volume_steps_reset">Redefinir</string>
+</resources>

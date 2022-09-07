@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- SELinux Status -->
+  <string name="selinux_status">SELinux status</string>
+  <string name="selinux_status_disabled">Uitgeschakeld</string>
+  <string name="selinux_status_permissive">Permissive</string>
+  <string name="selinux_status_enforcing">Enforcing</string>
+  <!-- About device screen, VoidUI Release Version -->
+  <string name="voidui_release_version">VoidUI Release Versie</string>
+  <!-- VoidUI Maintainer -->
+  <string name="VoidUI_maintainer">Apparaat onderhouder</string>
+  <!-- App details: open play store link if app is user installed -->
+  <string name="app_play_store">Google Play</string>
+  <!-- Device specific doze package -->
+  <!-- Battery temperature -->
+  <string name="battery_temp">Batterijtemperatuur</string>
+  <!-- Proximity wake -->
+  <string name="proximity_wake_title">Voorkom onbedoeld ontwaken</string>
+  <string name="proximity_wake_summary">Nabijheidssensor gebruiken voorafgaand aan ontwaken van scherm</string>
+  <!-- Refresh rate -->
+  <string name="min_refresh_rate_title">Minimale verversingsfrequentie</string>
+  <string name="max_refresh_rate_title">Maximale verversingsfrequentie</string>
+  <string name="low_power_refresh_rate_title_custom">Lage stroom verversingssnelheid</string>
+  <!-- Fingerprint wake-and-unlock -->
+  <string name="fingerprint_wake_unlock_title">Raak vingerafdruk aan om te ontgrendelen</string>
+  <string name="fingerprint_wake_unlock_touch">Luisters voor gebeurtenissen wanneer het scherm uit is</string>
+  <string name="fingerprint_wake_unlock_press">Luistert alleen naar gebeurtenissen zodra het scherm aan is</string>
+  <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_title">Achtergrond zoomeffect</string>
+  <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_summary">Zoom de achtergrond in om de zoom-out diepte animatie te tonen. Achtergronden kunnen een lagere kwaliteit hebben</string>
+  <!-- String for removal of sensitive info on about, depending on tap -->
+  <string name="device_info_protected_single_press">Tik om info te tonen</string>
+  <!-- Package details -->
+  <string name="package_details_group_title">Pakket Details</string>
+  <string name="package_name">Pakket naam</string>
+  <string name="package_version">Pakket versie</string>
+  <!-- Fullscreen gestures -->
+  <string name="other_controls_title">Andere besturingen</string>
+  <string name="fullscreen_gestures_title">Volledig scherm gebaren</string>
+  <string name="fullscreen_gestures_summary">Verberg navigatiebalk en toetsenbordruimte</string>
+  <!-- Gesture navbar length -->
+  <string name="gesture_navbar_length_title">Navigatiebalk lengte</string>
+  <string name="short_label">Kort</string>
+  <string name="long_label">Lang</string>
+  <!-- Swipe to screenshot -->
+  <string name="swipe_to_screenshot_title">Swipe voor schermafbeelding</string>
+  <string name="swipe_to_screenshot_summary">Veeg 3 vingers omlaag op het scherm om een schermafbeelding te maken</string>
+  <!-- Notch: Full screen apps -->
+  <string name="display_cutout_force_fullscreen_title">Volledig scherm apps</string>
+  <string name="display_cutout_force_fullscreen_summary">Dwing apps om notch ruimte te negeren</string>
+  <!-- Hotspot extras -->
+  <string name="tethering_allow_vpn_upstreams_title">Sta cliënten toe VPN\'s te gebruiken</string>
+  <string name="tethering_allow_vpn_upstreams_summary">Hotspot clients toestaan om dit apparaat te gebruiken\u2019s VPN verbindingen voor stroomopwaarts connectiviteit</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">Volumeniveaus</string>
+  <string name="volume_steps_summary">Volumeniveaus aanpassen</string>
+  <string name="volume_steps_alarm_title">Volumeniveaus: Alarm</string>
+  <string name="volume_steps_dtmf_title">Volumeniveaus: DTMF</string>
+  <string name="volume_steps_music_title">Volumeniveaus: Media</string>
+  <string name="volume_steps_notification_title">Volumeniveaus: Meldingen</string>
+  <string name="volume_steps_ring_title">Volumeniveaus: Beltoon</string>
+  <string name="volume_steps_system_title">Volumeniveaus: Systeem</string>
+  <string name="volume_steps_voice_call_title">Volumeniveaus: Spraakoproep</string>
+  <string name="volume_steps_reset">Resetten</string>
+</resources>

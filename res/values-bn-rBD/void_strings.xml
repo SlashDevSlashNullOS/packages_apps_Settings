@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- SELinux Status -->
+  <string name="selinux_status">SELinux এর অবস্থা</string>
+  <string name="selinux_status_disabled">নিষ্ক্রিয়করণ</string>
+  <string name="selinux_status_permissive">অনুমতিমূলক</string>
+  <string name="selinux_status_enforcing">বাধ্যকরণ</string>
+  <!-- About device screen, VoidUI Release Version -->
+  <string name="voidui_release_version">VoidUI মুক্তির ভার্সন</string>
+  <!-- VoidUI Maintainer -->
+  <string name="VoidUI_maintainer">যন্ত্রের মেইনটেইনার</string>
+  <!-- App details: open play store link if app is user installed -->
+  <string name="app_play_store">গুগল প্লে</string>
+  <!-- Device specific doze package -->
+  <!-- Battery temperature -->
+  <string name="battery_temp">ব্যাটারির তাপমাত্রা</string>
+  <!-- Proximity wake -->
+  <string name="proximity_wake_title">অনিচ্ছাকৃত স্ক্রিন জেগে যাওয়া রোধ করুন</string>
+  <string name="proximity_wake_summary">স্ক্রিন জেগে ওঠানোর আগে নৈকট্য সেন্সর যাচাই করুন</string>
+  <!-- Refresh rate -->
+  <string name="min_refresh_rate_title">সর্বনিম্ন রিফ্রেশ হার</string>
+  <string name="max_refresh_rate_title">সর্বোচ্চ রিফ্রেশ হার</string>
+  <string name="low_power_refresh_rate_title_custom">কম শক্তি ব্যাবহারকারী রিফ্রেশ হার</string>
+  <!-- Fingerprint wake-and-unlock -->
+  <string name="fingerprint_wake_unlock_title">আঙুলের ছাপ ছোয়ানোর মাধ্যমে খুলুন</string>
+  <string name="fingerprint_wake_unlock_touch">স্ক্রিন বন্ধ থাকাকালীন কোনো ঘটনার জন্য শুনতে থাকবে</string>
+  <string name="fingerprint_wake_unlock_press">শুধুমাত্র স্ক্রিন অন থাকার সময় ই ঘটনা শুনতে থাকবে</string>
+  <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_title">ওয়ালপেপার জুম ইফেক্ট</string>
+  <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_summary">জুম-আউট অ্যানিমেশন দেখানোর জন্য ওয়ালপেপার জুম করুন। ওয়ালপেপারের মান হ্রাস হতে পারে</string>
+  <!-- String for removal of sensitive info on about, depending on tap -->
+  <string name="device_info_protected_single_press">তথ্য দেখাতে আলতো চাপুন</string>
+  <!-- Package details -->
+  <string name="package_details_group_title">প্যাকেজের তথ্য</string>
+  <string name="package_name">প্যাকেজের নাম</string>
+  <string name="package_version">প্যাকেজের সংস্করণ</string>
+  <!-- Fullscreen gestures -->
+  <string name="other_controls_title">অন্য নিয়ন্ত্রনগুলি</string>
+  <string name="fullscreen_gestures_title">পূর্ণ পর্দা অঙ্গভঙ্গি</string>
+  <string name="fullscreen_gestures_summary">কীবোর্ড এর ফাঁকা জায়গা এবং ন্যাভিগেশন পিল লুকান</string>
+  <!-- Gesture navbar length -->
+  <string name="gesture_navbar_length_title">পিলের দৈর্ঘ্য</string>
+  <string name="short_label">সংক্ষিপ্ত</string>
+  <string name="long_label">লম্বা</string>
+  <!-- Swipe to screenshot -->
+  <string name="swipe_to_screenshot_title">স্ক্রিনশট নিতে সোয়াইপ করা</string>
+  <string name="swipe_to_screenshot_summary">স্ক্রিনশট নিতে তিন আঙুল দিয়ে স্ক্রিনে নিচদিকে সোয়াইপ করুন</string>
+  <!-- Notch: Full screen apps -->
+  <string name="display_cutout_force_fullscreen_title">পূর্ণ স্ক্রিন অ্যাপসমূহ</string>
+  <string name="display_cutout_force_fullscreen_summary">অ্যাপ্লিকেশনগুলিকে নচ উপেক্ষা করতে বাধ্য করুন</string>
+  <!-- Hotspot extras -->
+  <string name="tethering_allow_vpn_upstreams_title">ব্যাবহারকারীকে ভিপিএন ব্যাবহারের অনুমতি দেওয়া</string>
+  <string name="tethering_allow_vpn_upstreams_summary">যোগাযোগকে উদ্ধমূখী করার জন্য ব্যাবহারীকে এই যন্ত্র\u2019s এর হটস্পট ব্যাবহারের অনুমতি প্রদান</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">ভলিউমের ধাপসমূহ</string>
+  <string name="volume_steps_summary">ভলিউম স্টেপ কাস্টমাইজ করুন</string>
+  <string name="volume_steps_alarm_title">ভলিউম স্টেপ: অ্যালার্ম</string>
+  <string name="volume_steps_dtmf_title">ভলিউম স্টেপ: DTMF</string>
+  <string name="volume_steps_music_title">ভলিউম স্টেপ: মিডিয়া</string>
+  <string name="volume_steps_notification_title">ভলিউম স্টেপ: নোটিফিকেশন</string>
+  <string name="volume_steps_ring_title">ভলিউম স্টেপ: রিংগার</string>
+  <string name="volume_steps_system_title">ভলিউম স্টেপ: সিস্টেম</string>
+  <string name="volume_steps_voice_call_title">ভলিউম স্টেপ: ভয়েস কল</string>
+  <string name="volume_steps_reset">পুনরায় সেট করুন</string>
+</resources>

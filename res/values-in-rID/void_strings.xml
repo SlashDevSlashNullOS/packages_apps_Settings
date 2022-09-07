@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- SELinux Status -->
+  <string name="selinux_status">Status SElinux</string>
+  <string name="selinux_status_disabled">Matikan</string>
+  <string name="selinux_status_permissive">Tidak Wajib</string>
+  <string name="selinux_status_enforcing">Wajib</string>
+  <!-- About device screen, VoidUI Release Version -->
+  <string name="voidui_release_version">VoidUI Versi Rilis</string>
+  <!-- VoidUI Maintainer -->
+  <string name="VoidUI_maintainer">Pengelola Perangkat</string>
+  <!-- App details: open play store link if app is user installed -->
+  <string name="app_play_store">Google Play</string>
+  <!-- Device specific doze package -->
+  <!-- Battery temperature -->
+  <string name="battery_temp">Suhu_baterai</string>
+  <!-- Proximity wake -->
+  <string name="proximity_wake_title">Mencegah layar terbuka yang tidak di sengaja</string>
+  <string name="proximity_wake_summary">Periksa sensor jarak sebelum membangunkan layar</string>
+  <!-- Refresh rate -->
+  <string name="min_refresh_rate_title">Kecepatan refresh minimum</string>
+  <string name="max_refresh_rate_title">Kecepatan refresh maksimum</string>
+  <string name="low_power_refresh_rate_title_custom">Tingkat kecepatan refresh daya rendah</string>
+  <!-- Fingerprint wake-and-unlock -->
+  <string name="fingerprint_wake_unlock_title">Sentuk sidik jari untuk membuka kunci</string>
+  <string name="fingerprint_wake_unlock_touch">Mendeteksi saat layar mati</string>
+  <string name="fingerprint_wake_unlock_press">Hanya mendeteksi setelah layar menyala</string>
+  <!-- Display Settings: Title of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_title">Efek perbesar wallpaper</string>
+  <!-- Display Settings: Subtitle of the setting which toggles wallpaper zooming effects on interraction -->
+  <string name="wallpaper_zoom_effect_summary">Perbesar wallpaper untuk menampilkan kedalaman animasi memperkecil. Wallpaper mungkin mengalami penurunan kualitas</string>
+  <!-- String for removal of sensitive info on about, depending on tap -->
+  <string name="device_info_protected_single_press">Ketuk Untuk Melihat</string>
+  <!-- Package details -->
+  <string name="package_details_group_title">Rincian paket</string>
+  <string name="package_name">Nama paket</string>
+  <string name="package_version">Versi paket</string>
+  <!-- Fullscreen gestures -->
+  <string name="other_controls_title">Kontrol lainnya</string>
+  <string name="fullscreen_gestures_title">Gestur layar penuh</string>
+  <string name="fullscreen_gestures_summary">Sembunyikan pil bilah navigasi dan ruang keyboard</string>
+  <!-- Gesture navbar length -->
+  <string name="gesture_navbar_length_title">Panjang pil</string>
+  <string name="short_label">Pendek</string>
+  <string name="long_label">Panjang</string>
+  <!-- Swipe to screenshot -->
+  <string name="swipe_to_screenshot_title">Usap untuk menangkap layar</string>
+  <string name="swipe_to_screenshot_summary">Geser 3 jari ke bawah layar untuk mengambil tangkapan layar</string>
+  <!-- Notch: Full screen apps -->
+  <string name="display_cutout_force_fullscreen_title">Aplikasi layar penuh</string>
+  <string name="display_cutout_force_fullscreen_summary">Paksa aplikasi untuk mengabaikan ruang takik</string>
+  <!-- Hotspot extras -->
+  <string name="tethering_allow_vpn_upstreams_title">Izinkan klien untuk menggunakan VPN</string>
+  <string name="tethering_allow_vpn_upstreams_summary">Izinkan klien hotspot untuk menggunakan koneksi VPN perangkat\u2019 ini untuk konektivitas upstream</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">Langkah volume</string>
+  <string name="volume_steps_summary">Sesuaikan langkah volume</string>
+  <string name="volume_steps_alarm_title">Langkah volume: Alarm</string>
+  <string name="volume_steps_dtmf_title">Langkah volume: DTMF</string>
+  <string name="volume_steps_music_title">Langkah volume: Media</string>
+  <string name="volume_steps_notification_title">Langkah volume: Pemberitahuan</string>
+  <string name="volume_steps_ring_title">Langkah volume: Dering</string>
+  <string name="volume_steps_system_title">Langkah volume: Sistem</string>
+  <string name="volume_steps_voice_call_title">Langkah volume: Panggilan Suara</string>
+  <string name="volume_steps_reset">Atur ulang</string>
+</resources>
